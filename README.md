@@ -20,8 +20,7 @@ This project involves creating an ETL (Extract, Transform, Load) pipeline for mo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+(https://github.com/Youssef5lo/Movies-Data-ETL-using-Python-GCP.git)
 ```
 ### 2. Create and Activate a Virtual Environment
 ```bash
